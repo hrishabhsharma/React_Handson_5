@@ -20,7 +20,7 @@ const PureComp = () => {
     ])
   return (
     <div className='comp'>
-        <h1>This the Example of Pure Component</h1>
+        <h1>This is the Example of Pure Component</h1>
         <table>
         <thead>
           <tr>
